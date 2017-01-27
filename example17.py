@@ -15,3 +15,9 @@ print(x)
 
 x = statistics.mode(exList)
 print(x)
+
+x = statistics.stdev(exList)
+print(x)
+
+x = statistics.variance(exList)
+print(x)
