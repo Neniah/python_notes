@@ -13,6 +13,6 @@ class calc:
         answer = x * y
         print(answer)
 
-    def div(x,y)
+    def div(x,y):
         answer = x/y
         print(answer)
